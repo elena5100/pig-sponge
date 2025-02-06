@@ -82,5 +82,5 @@ letter, it is added to the new word without any modifications. This ensures that
     } else {
       System.out.println("Test " + testNumber + " passed!");
     }
-  }
+  }                   
 }
